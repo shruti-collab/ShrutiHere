@@ -18,8 +18,8 @@ export const profile = {
   marquee: ["Build it. Design it. Ship it.", "Hackathon winner", "Published researcher", "Make it matter.", "Open for collab"],
   audioSrc: "/audio/track.mp3", // e.g. "/audio/lofi.mp3". null = built-in ambient synth
   socials: [
-    { short: "in", label: "LinkedIn", url: "https://linkedin.com/in/yourname" },
-    { short: "gh", label: "GitHub", url: "https://github.com/yourname" },
+    { short: "in", label: "LinkedIn", url: "https://www.linkedin.com/in/shruti-kumari-a35b302b8/" },
+    { short: "gh", label: "GitHub", url: "https://github.com/shruti-collab" },
     { short: "@", label: "Email", url: "mailto:shrutikumari916200@gmail.com" },
     { short: "cv", label: "Resume", url: "#" },
     { short: "x", label: "X", url: "https://x.com/yourname" },
